@@ -1,14 +1,21 @@
-import java.util.Arrays;
+import java.util.HashMap;
+import java.util.Map;
 
 public class Marathon {
     public String solution(String[] participant, String[] completion) {
-        Arrays.sort(participant);
-        Arrays.sort(completion);
+        String answer = "";
+        Map<String, Integer> map = new HashMap<>();
+        for (String p : participant)
+            map.put(p, map.getOrDefault(p, 0) + 1);
+        for (String c : completion)
+            map.put(c, map.getOrDefault(c, 0) - 1);
 
-        for (int i = 0; i < completion.length; i++)
-            if (!participant[i].equals(completion[i]))
-                return participant[i];
-        return participant[participant.length - 1];
+        for (String m : map.keySet())
+            if (map.get(m) == 1) {
+                answer = m;
+                break;
+            }
+        return answer;
     }
 
     public static void main(String[] args) {
