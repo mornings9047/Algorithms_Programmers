@@ -11,6 +11,9 @@
 #### 01.07
 ##### 3진법 뒤집기
 <https://velog.io/@morningstar/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-04>
-####01.08
+#### 01.08
 ##### 체육복
 <https://velog.io/@morningstar/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-05>
+####01.09
+##### 모의고사
+<https://velog.io/@morningstar/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-06>
