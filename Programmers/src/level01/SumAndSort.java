@@ -4,17 +4,17 @@ import java.util.*;
 
 public class SumAndSort {
     public int[] solution(int[] numbers) {
-        Set<Integer> set = new HashSet<>();
+        Set<Integer> sum = new HashSet<>();
         for (int i = 0; i < numbers.length - 1; i++)
             for (int j = i + 1; j < numbers.length; j++)
-                set.add(numbers[i] + numbers[j]);
+                sum.add(numbers[i] + numbers[j]);
 
-        List<Integer> list = new ArrayList<>(set);
-        Collections.sort(list);
-        int length = list.size();
+        List<Integer> order = new ArrayList<>(sum);
+        Collections.sort(order);
+        int length = order.size();
         int[] answer = new int[length];
         for (int i = 0; i < length; i++)
-            answer[i] = list.get(i);
+            answer[i] = order.get(i);
         return answer;
     }
 
