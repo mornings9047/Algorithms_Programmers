@@ -8,7 +8,7 @@
 #### 01.07
 #### 두 개 뽑아서 더하기
 <https://velog.io/@morningstar/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-03>
-#### 01.07
+
 #### 3진법 뒤집기
 <https://velog.io/@morningstar/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-04>
 #### 01.08
@@ -20,6 +20,9 @@
 #### 01.10
 #### K번째수
 <https://velog.io/@morningstar/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-07>
-#### 01.10
+#### 01.11
 #### 2016년
 <https://velog.io/@morningstar/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-08>
+#### 01.12
+#### 가운데 글자 가져오기
+<https://velog.io/@morningstar/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-09>
