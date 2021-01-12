@@ -29,3 +29,6 @@
 
 #### 같은 숫자는 싫어
 <https://velog.io/@morningstar/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-10>
+
+#### 나누어 떨어지는 숫자 배열
+<https://velog.io/@morningstar/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-11>
