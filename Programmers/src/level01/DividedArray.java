@@ -38,5 +38,4 @@ public class DividedArray {
             System.out.print(i + " ");
         System.out.println();
     }
-
 }
