@@ -50,3 +50,5 @@
 <https://velog.io/@morningstar/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-14>
 #### 문자열 내림차순으로 배치하기
 <https://velog.io/@morningstar/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-15>
+#### 문자열 다루기 기본
+<https://velog.io/@morningstar/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-16>
