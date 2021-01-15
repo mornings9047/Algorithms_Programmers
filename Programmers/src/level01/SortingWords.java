@@ -2,10 +2,10 @@ package level01;
 
 import java.util.*;
 
-public class SortingWord {
+public class SortingWords {
     private Map<Character, List<String>> map;
 
-    public SortingWord() {
+    public SortingWords() {
         map = new HashMap<>();
     }
 
@@ -51,11 +51,11 @@ public class SortingWord {
     public static void main(String[] args) {
         String[] str = {"sun", "bed", "car"};
         String[] str2 = {"abce", "abcd", "cdx"};
-        SortingWord sortingWord = new SortingWord();
-        for (String s : sortingWord.solution(str, 1))
+        SortingWords sortingWords = new SortingWords();
+        for (String s : sortingWords.solution(str, 1))
             System.out.print(s + " ");
         System.out.println();
-        for (String s : sortingWord.solution(str2, 2))
+        for (String s : sortingWords.solution(str2, 2))
             System.out.print(s + " ");
     }
 }
