@@ -17,13 +17,8 @@ public class PrimeNumber {
     }
 
     public boolean isPrime(int num) {
-        if (num == 1)
+        if (num % 2 == 0)
             return false;
-        else if (num <= 3)
-            return true;
-        else if (num % 2 == 0)
-            return false;
-
         for (int i = 3; i <= (int) Math.sqrt(num); i += 2)
             if (num % i == 0)
                 return false;
