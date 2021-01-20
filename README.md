@@ -78,3 +78,5 @@
 #### 01.20
 #### 자릿수 더하기
 <https://velog.io/@morningstar/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-25>
+#### 자연수 뒤집어 배열로 만들기
+<https://velog.io/@morningstar/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-26>
