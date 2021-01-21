@@ -84,3 +84,5 @@
 #### 01.21
 #### 정수 내림차순으로 배치하기
 <https://velog.io/@morningstar/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-27>
+#### 정수 제곱근 판별
+<https://velog.io/@morningstar/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-28>
