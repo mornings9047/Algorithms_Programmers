@@ -90,3 +90,5 @@
 #### 01.22
 #### 제일 작은 수 제거하기
 <https://velog.io/@morningstar/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-29>
+#### 짝수와 홀수
+<https://velog.io/@morningstar/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-30>
