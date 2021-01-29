@@ -4,12 +4,10 @@ public class Dart {
     private String dartResult;
     private int[] scores;
     private int scoreIndex;
-    private int sum;
 
     public Dart() {
         scores = new int[3];
         scoreIndex = 0;
-        sum = 0;
     }
 
     public int solution(String dartResult) {
@@ -65,6 +63,7 @@ public class Dart {
     }
 
     public int sum() {
+        int sum = 0;
         for (int score : scores)
             sum += score;
         return sum;
@@ -73,7 +72,6 @@ public class Dart {
     public void reset() {
         scores = new int[3];
         scoreIndex = 0;
-        sum = 0;
     }
 
     public static void main(String[] args) {
