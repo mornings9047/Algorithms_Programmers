@@ -130,3 +130,7 @@
 #### 02.02
 #### 실패율
 <https://velog.io/@morningstar/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-43>
+
+#### 02.07
+#### 키패드 누르기
+<https://velog.io/@morningstar/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-44>
